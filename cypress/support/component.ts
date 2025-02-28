@@ -1,4 +1,4 @@
-import {mount} from '@cypress/react';
+import {mount} from 'cypress/react18';
 import '../../client/src/index.css';
 import './commands';
 
