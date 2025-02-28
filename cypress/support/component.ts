@@ -1,5 +1,5 @@
 import {mount} from 'cypress/react18';
-import '../../client/src/index.css';
+import '../../client/src/App.css';
 import './commands';
 
 declare global {
