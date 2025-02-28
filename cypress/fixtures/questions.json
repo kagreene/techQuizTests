@@ -1,0 +1,21 @@
+[
+    { 
+      "question": "What is the capital of France?",
+      "answers": [
+        { "answer": "Berlin", "isCorrect": false },
+        { "answer": "Madrid", "isCorrect": false },
+        { "answer": "Paris", "isCorrect": true },
+        { "answer": "Rome", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "answers": [
+        { "answer": "Earth", "isCorrect": false },
+        { "answer": "Mars", "isCorrect": true },
+        { "answer": "Jupiter", "isCorrect": false },
+        { "answer": "Venus", "isCorrect": false }
+      ]
+    }
+  ]
+  
